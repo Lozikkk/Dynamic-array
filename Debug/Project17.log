@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project17.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Hw_Dynamic array.cpp
+C:\Users\ПК\source\repos\Project17\Hw_Dynamic array.cpp(51,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ПК\source\repos\Project17\Hw_Dynamic array.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project17.vcxproj -> C:\Users\ПК\source\repos\Project17\Debug\Dynamic array.exe
